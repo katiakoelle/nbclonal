@@ -9,7 +9,7 @@ Some of the functions in this package uses `parallrl:mclapply()` to reduce the r
 You can install this package using `devtools`:
 
 ```r
-devtools::install_github("MXTeresa/nbclonal")
+devtools::install_github("katiakoelle/nbclonal")
 ```
 
 # Overview
